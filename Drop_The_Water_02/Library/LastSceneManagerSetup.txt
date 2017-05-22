@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/6_Help/Help(1).unity
+  isLoaded: 1
+  isActive: 1
